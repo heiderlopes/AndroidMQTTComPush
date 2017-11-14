@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "1086648265364",
+    "firebase_url": "https://rich-store-146411.firebaseio.com",
+    "project_id": "rich-store-146411",
+    "storage_bucket": "rich-store-146411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086648265364:android:658caf9322917275",
+        "android_client_info": {
+          "package_name": "tjdf2.fiap.com.br.wear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086648265364-m7mr22n629f9qt4bl838q6vqvv3ms92v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1b1pB_ZdJ681nOV-fdpHuML0FnC9bF40"
+        },
+        {
+          "current_key": "AIzaSyARX4ZF2vMamNpgfkxu0UToOPu8cb9K94g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086648265364:android:e9a0eb9d9078a4e8",
+        "android_client_info": {
+          "package_name": "br.com.heiderlopes.helloiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086648265364-m7mr22n629f9qt4bl838q6vqvv3ms92v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1b1pB_ZdJ681nOV-fdpHuML0FnC9bF40"
+        },
+        {
+          "current_key": "AIzaSyARX4ZF2vMamNpgfkxu0UToOPu8cb9K94g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
