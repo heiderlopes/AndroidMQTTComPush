@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.Toast;
 import android.widget.ViewSwitcher;
 
+import com.google.firebase.messaging.FirebaseMessaging;
+
 import org.eclipse.paho.android.service.MqttAndroidClient;
 import org.eclipse.paho.client.mqttv3.IMqttActionListener;
 import org.eclipse.paho.client.mqttv3.IMqttDeliveryToken;
@@ -50,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
                 promptSpeechInput();
             }
         });*/
+
+        FirebaseMessaging.getInstance().subscribeToTopic("/topics/temperatura");
         connectMQTTClient();
 
         t1 = new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
